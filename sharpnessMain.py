@@ -74,7 +74,6 @@ plt.title('Standard Deviation of Sharpness Values')
 plt.xlabel('Set Prefix')
 plt.ylabel('Standard Deviation')
 plt.show()
-
 plt.close(fig1)
 
 # Wait for a keypress
